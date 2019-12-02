@@ -20,12 +20,12 @@ export const resources = {
 	},
 
 	"raw_materials": {
-		"food": 100,
-		"wood": 100,
-		"stone": 100,
-		"metals": 10,
-		"gems": 0,
-		"fuel": 0
+		"food": 1000,
+		"wood": 1000,
+		"stone": 1000,
+		"metals": 1000,
+		"gems": 10,
+		"fuel": 10
 	}
 
 }
